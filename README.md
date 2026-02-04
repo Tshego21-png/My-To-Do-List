@@ -16,7 +16,7 @@ A simple and responsive To-Do List application built to help users manage daily 
 This project was built to practice front-end web development fundamentals, including DOM manipulation, and basic UI design
 
 ## Live Demo
-https://tshego21-png.github.io/My-To-Do-List/
+https://tshego21-png.github.io/ToDoApp/
 
 ## What i learned
 - DOM manipulation
